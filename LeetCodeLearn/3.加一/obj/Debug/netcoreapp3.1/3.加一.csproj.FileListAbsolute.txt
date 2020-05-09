@@ -1,0 +1,12 @@
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\bin\Debug\netcoreapp3.1\3.加一.exe
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\bin\Debug\netcoreapp3.1\3.加一.deps.json
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\bin\Debug\netcoreapp3.1\3.加一.runtimeconfig.json
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\bin\Debug\netcoreapp3.1\3.加一.runtimeconfig.dev.json
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\bin\Debug\netcoreapp3.1\3.加一.dll
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\bin\Debug\netcoreapp3.1\3.加一.pdb
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\obj\Debug\netcoreapp3.1\3.加一.csproj.CoreCompileInputs.cache
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\obj\Debug\netcoreapp3.1\3.加一.AssemblyInfoInputs.cache
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\obj\Debug\netcoreapp3.1\3.加一.AssemblyInfo.cs
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\obj\Debug\netcoreapp3.1\3.加一.dll
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\obj\Debug\netcoreapp3.1\3.加一.pdb
+C:\Users\dummy\Desktop\LeetCodeLearn\3.加一\obj\Debug\netcoreapp3.1\3.加一.genruntimeconfig.cache

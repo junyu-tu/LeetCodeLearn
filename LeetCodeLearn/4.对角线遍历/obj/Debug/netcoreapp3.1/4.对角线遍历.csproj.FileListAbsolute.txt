@@ -1,0 +1,12 @@
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.exe
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.deps.json
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.runtimeconfig.json
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.runtimeconfig.dev.json
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.dll
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.pdb
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.csproj.CoreCompileInputs.cache
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.AssemblyInfoInputs.cache
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.AssemblyInfo.cs
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.dll
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.pdb
+C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.genruntimeconfig.cache
