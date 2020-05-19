@@ -10,3 +10,16 @@ C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4
 C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.dll
 C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.pdb
 C:\Users\dummy\Desktop\LeetCodeLearn\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.genruntimeconfig.cache
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.exe
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.deps.json
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.runtimeconfig.json
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.runtimeconfig.dev.json
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.dll
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\bin\Debug\netcoreapp3.1\4.对角线遍历.pdb
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.csprojAssemblyReference.cache
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.csproj.CoreCompileInputs.cache
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.AssemblyInfoInputs.cache
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.AssemblyInfo.cs
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.dll
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.pdb
+D:\LeetCodeLearn\1.关于数组的学习\4.对角线遍历\obj\Debug\netcoreapp3.1\4.对角线遍历.genruntimeconfig.cache

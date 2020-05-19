@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.寻找数组的中心索引", "1.寻找数组的中心索引\1.寻找数组的中心索引.csproj", "{A9D879E9-6F1F-4547-9BE5-E02BFF133678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.寻找数组的中心索引", "1.寻找数组的中心索引\1.寻找数组的中心索引.csproj", "{A9D879E9-6F1F-4547-9BE5-E02BFF133678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.至少是其他数字两倍的最大数", "2.至少是其他数字两倍的最大数\2.至少是其他数字两倍的最大数.csproj", "{F41EED5B-A9ED-4CF3-96F0-DA83B71C0901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.至少是其他数字两倍的最大数", "2.至少是其他数字两倍的最大数\2.至少是其他数字两倍的最大数.csproj", "{F41EED5B-A9ED-4CF3-96F0-DA83B71C0901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.加一", "3.加一\3.加一.csproj", "{66BD77A4-BAA7-4406-A00A-523512437AF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.加一", "3.加一\3.加一.csproj", "{66BD77A4-BAA7-4406-A00A-523512437AF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.对角线遍历", "4.对角线遍历\4.对角线遍历.csproj", "{229B74F9-92EE-4B5F-899D-69DAECE6C159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.对角线遍历", "4.对角线遍历\4.对角线遍历.csproj", "{229B74F9-92EE-4B5F-899D-69DAECE6C159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.螺旋矩阵", "5.螺旋矩阵\5.螺旋矩阵.csproj", "{951BE7B4-3528-4642-A940-10AEE2BDE058}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{229B74F9-92EE-4B5F-899D-69DAECE6C159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{229B74F9-92EE-4B5F-899D-69DAECE6C159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{229B74F9-92EE-4B5F-899D-69DAECE6C159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951BE7B4-3528-4642-A940-10AEE2BDE058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951BE7B4-3528-4642-A940-10AEE2BDE058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951BE7B4-3528-4642-A940-10AEE2BDE058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951BE7B4-3528-4642-A940-10AEE2BDE058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
