@@ -32,6 +32,13 @@ namespace _5.螺旋矩阵
 
         public IList<int> SpiralOrder(int[][] matrix)
         {
+            //如果是空数组直接返回一个空数组
+            if (matrix.Length == 0 || matrix == null)
+            {
+                return new int[] { };
+            }
+
+
             return null;
         }
     }
